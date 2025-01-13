@@ -1,0 +1,2330 @@
+[
+    {
+        "University Name": "Princeton University (NJ)",
+        "Min SAT": 1440,
+        "Max SAT": 1570,
+        "Location": "NJ",
+        "Type": "Private",
+        "Category": "Medium"
+    },
+    {
+        "University Name": "Harvard University (MA)",
+        "Min SAT": 1460,
+        "Max SAT": 1580,
+        "Location": "MA",
+        "Type": "Private",
+        "Category": "Medium"
+    },
+    {
+        "University Name": "Columbia University (NY)",
+        "Min SAT": 1450,
+        "Max SAT": 1560,
+        "Location": "NY",
+        "Type": "Private",
+        "Category": "Medium"
+    },
+    {
+        "University Name": "Massachusetts Institute of Technology",
+        "Min SAT": 1500,
+        "Max SAT": 1570,
+        "Location": "Massachusetts Institute of Technology",
+        "Type": "Private",
+        "Category": "Hard"
+    },
+    {
+        "University Name": "Yale University (CT)",
+        "Min SAT": 1450,
+        "Max SAT": 1560,
+        "Location": "CT",
+        "Type": "Private",
+        "Category": "Medium"
+    },
+    {
+        "University Name": "Stanford University (CA)",
+        "Min SAT": 1420,
+        "Max SAT": 1570,
+        "Location": "CA",
+        "Type": "Private",
+        "Category": "Medium"
+    },
+    {
+        "University Name": "University of Chicago",
+        "Min SAT": 1510,
+        "Max SAT": 1560,
+        "Location": "University of Chicago",
+        "Type": "Private",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "University of Pennsylvania",
+        "Min SAT": 1440,
+        "Max SAT": 1560,
+        "Location": "University of Pennsylvania",
+        "Type": "Private",
+        "Category": "Medium"
+    },
+    {
+        "University Name": "Northwestern University (IL)",
+        "Min SAT": 1530,
+        "Max SAT": 1600,
+        "Location": "IL",
+        "Type": "Private",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "Duke University (NC)",
+        "Min SAT": 1520,
+        "Max SAT": 1570,
+        "Location": "NC",
+        "Type": "Private",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "Johns Hopkins University (MD)",
+        "Min SAT": 1480,
+        "Max SAT": 1560,
+        "Location": "MD",
+        "Type": "Private",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "California Institute of Technology",
+        "Min SAT": 1530,
+        "Max SAT": 1580,
+        "Location": "California Institute of Technology",
+        "Type": "Private",
+        "Category": "Hard"
+    },
+    {
+        "University Name": "Dartmouth College (NH)",
+        "Min SAT": 1420,
+        "Max SAT": 1560,
+        "Location": "NH",
+        "Type": "Private",
+        "Category": "Medium"
+    },
+    {
+        "University Name": "Brown University (RI)",
+        "Min SAT": 1420,
+        "Max SAT": 1550,
+        "Location": "RI",
+        "Type": "Private",
+        "Category": "Medium"
+    },
+    {
+        "University Name": "University of Notre Dame (IN)",
+        "Min SAT": 1440,
+        "Max SAT": 1540,
+        "Location": "IN",
+        "Type": "Private",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "Vanderbilt University (TN)",
+        "Min SAT": 1530,
+        "Max SAT": 1600,
+        "Location": "TN",
+        "Type": "Private",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "Cornell University (NY)",
+        "Min SAT": 1390,
+        "Max SAT": 1540,
+        "Location": "NY",
+        "Type": "Private",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "Rice University (TX)",
+        "Min SAT": 1540,
+        "Max SAT": 1600,
+        "Location": "TX",
+        "Type": "Private",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "Washington University in St. Louis",
+        "Min SAT": 1530,
+        "Max SAT": 1600,
+        "Location": "Washington University in St. Louis",
+        "Type": "Private",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "University of California--Los Angeles",
+        "Min SAT": 1270,
+        "Max SAT": 1520,
+        "Location": "University of California--Los Angeles",
+        "Type": "Public",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "Emory University (GA)",
+        "Min SAT": 1350,
+        "Max SAT": 1520,
+        "Location": "GA",
+        "Type": "Private",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "University of California--Berkeley",
+        "Min SAT": 1300,
+        "Max SAT": 1530,
+        "Location": "University of California--Berkeley",
+        "Type": "Public",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "University of Southern California",
+        "Min SAT": 1350,
+        "Max SAT": 1530,
+        "Location": "University of Southern California",
+        "Type": "Private",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "Georgetown University (DC)",
+        "Min SAT": 1370,
+        "Max SAT": 1530,
+        "Location": "DC",
+        "Type": "Private",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "Carnegie Mellon University (PA)",
+        "Min SAT": 1450,
+        "Max SAT": 1550,
+        "Location": "PA",
+        "Type": "Private",
+        "Category": "Medium"
+    },
+    {
+        "University Name": "University of Michigan--Ann Arbor",
+        "Min SAT": 1330,
+        "Max SAT": 1510,
+        "Location": "University of Michigan--Ann Arbor",
+        "Type": "Public",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "Wake Forest University (NC)",
+        "Min SAT": 1410,
+        "Max SAT": 1510,
+        "Location": "NC",
+        "Type": "Private",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "University of Virginia",
+        "Min SAT": 1330,
+        "Max SAT": 1500,
+        "Location": "University of Virginia",
+        "Type": "Public",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "Georgia Institute of Technology",
+        "Min SAT": 1390,
+        "Max SAT": 1540,
+        "Location": "Georgia Institute of Technology",
+        "Type": "Public",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "New York University",
+        "Min SAT": 1310,
+        "Max SAT": 1510,
+        "Location": "New York University",
+        "Type": "Private",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "Tufts University (MA)",
+        "Min SAT": 1510,
+        "Max SAT": 1600,
+        "Location": "MA",
+        "Type": "Private",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "U. of North Carolina--Chapel Hill",
+        "Min SAT": 1390,
+        "Max SAT": 1520,
+        "Location": "U. of North Carolina--Chapel Hill",
+        "Type": "Public",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "University of Rochester (NY)",
+        "Min SAT": 1320,
+        "Max SAT": 1500,
+        "Location": "NY",
+        "Type": "Private",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "University of California--Santa Barbara",
+        "Min SAT": 1230,
+        "Max SAT": 1480,
+        "Location": "University of California--Santa Barbara",
+        "Type": "Public",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "University of Florida",
+        "Min SAT": 1280,
+        "Max SAT": 1440,
+        "Location": "University of Florida",
+        "Type": "Public",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "University of California--Irvine",
+        "Min SAT": 1180,
+        "Max SAT": 1440,
+        "Location": "University of California--Irvine",
+        "Type": "Public",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "Boston College",
+        "Min SAT": 1320,
+        "Max SAT": 1490,
+        "Location": "Boston College",
+        "Type": "Private",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "University of California--San Diego",
+        "Min SAT": 1250,
+        "Max SAT": 1470,
+        "Location": "University of California--San Diego",
+        "Type": "Public",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "University of California--Davis",
+        "Min SAT": 1150,
+        "Max SAT": 1410,
+        "Location": "University of California--Davis",
+        "Type": "Public",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "Boston University",
+        "Min SAT": 1330,
+        "Max SAT": 1500,
+        "Location": "Boston University",
+        "Type": "Private",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "Brandeis University (MA)",
+        "Min SAT": 1280,
+        "Max SAT": 1500,
+        "Location": "MA",
+        "Type": "Private",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "Case Western Reserve Univ. (OH)",
+        "Min SAT": 1420,
+        "Max SAT": 1530,
+        "Location": "OH",
+        "Type": "Private",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "College of William & Mary (VA)",
+        "Min SAT": 1310,
+        "Max SAT": 1490,
+        "Location": "VA",
+        "Type": "Public",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "Northeastern University (MA)",
+        "Min SAT": 1500,
+        "Max SAT": 1600,
+        "Location": "MA",
+        "Type": "Private",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "Tulane University (LA)",
+        "Min SAT": 1400,
+        "Max SAT": 1490,
+        "Location": "LA",
+        "Type": "Private",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "Univ. of Wisconsin--Madison",
+        "Min SAT": 1250,
+        "Max SAT": 1460,
+        "Location": "Univ. of Wisconsin--Madison",
+        "Type": "Public",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "Villanova University (PA)",
+        "Min SAT": 1300,
+        "Max SAT": 1470,
+        "Location": "PA",
+        "Type": "Private",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "University of Illinois--Urbana-Champaign",
+        "Min SAT": 1440,
+        "Max SAT": 1600,
+        "Location": "University of Illinois--Urbana-Champaign",
+        "Type": "Public",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "University of Texas--Austin",
+        "Min SAT": 1230,
+        "Max SAT": 1480,
+        "Location": "University of Texas--Austin",
+        "Type": "Public",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "Lehigh University (PA)",
+        "Min SAT": 1270,
+        "Max SAT": 1450,
+        "Location": "PA",
+        "Type": "Private",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "Pepperdine University (CA)",
+        "Min SAT": 1220,
+        "Max SAT": 1420,
+        "Location": "CA",
+        "Type": "Private",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "Rensselaer Polytechnic Inst. (NY)",
+        "Min SAT": 1330,
+        "Max SAT": 1500,
+        "Location": "NY",
+        "Type": "Private",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "University of Georgia",
+        "Min SAT": 1240,
+        "Max SAT": 1410,
+        "Location": "University of Georgia",
+        "Type": "Public",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "Ohio State University--Columbus",
+        "Min SAT": 1400,
+        "Max SAT": 1600,
+        "Location": "Ohio State University--Columbus",
+        "Type": "Public",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "Santa Clara University (CA)",
+        "Min SAT": 1270,
+        "Max SAT": 1440,
+        "Location": "CA",
+        "Type": "Private",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "Syracuse University (NY)",
+        "Min SAT": 1180,
+        "Max SAT": 1370,
+        "Location": "NY",
+        "Type": "Private",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "Florida State University",
+        "Min SAT": 1200,
+        "Max SAT": 1350,
+        "Location": "Florida State University",
+        "Type": "Public",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "Pennsylvania State U.--Univ. Park",
+        "Min SAT": 1160,
+        "Max SAT": 1360,
+        "Location": "Pennsylvania State U.--Univ. Park",
+        "Type": "Public",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "Purdue University--West Lafayette (IN)",
+        "Min SAT": 1180,
+        "Max SAT": 1410,
+        "Location": "IN",
+        "Type": "Public",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "University of Miami (FL)",
+        "Min SAT": 1250,
+        "Max SAT": 1430,
+        "Location": "FL",
+        "Type": "Private",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "University of Pittsburgh",
+        "Min SAT": 1270,
+        "Max SAT": 1430,
+        "Location": "University of Pittsburgh",
+        "Type": "Public",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "Rutgers University--New Brunswick (NJ)",
+        "Min SAT": 1190,
+        "Max SAT": 1410,
+        "Location": "NJ",
+        "Type": "Public",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "University of Washington",
+        "Min SAT": 1220,
+        "Max SAT": 1460,
+        "Location": "University of Washington",
+        "Type": "Public",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "Loyola Marymount University (CA)",
+        "Min SAT": 1210,
+        "Max SAT": 1390,
+        "Location": "CA",
+        "Type": "Private",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "Southern Methodist University (TX)",
+        "Min SAT": 1320,
+        "Max SAT": 1480,
+        "Location": "TX",
+        "Type": "Private",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "University of Connecticut",
+        "Min SAT": 1210,
+        "Max SAT": 1420,
+        "Location": "University of Connecticut",
+        "Type": "Public",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "Univ. of Maryland--College Park",
+        "Min SAT": 1290,
+        "Max SAT": 1480,
+        "Location": "Univ. of Maryland--College Park",
+        "Type": "Public",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "Univ. of Massachusetts--Amherst",
+        "Min SAT": 1200,
+        "Max SAT": 1390,
+        "Location": "Univ. of Massachusetts--Amherst",
+        "Type": "Public",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "Worcester Polytechnic Inst. (MA)",
+        "Min SAT": 1300,
+        "Max SAT": 1460,
+        "Location": "MA",
+        "Type": "Private",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "Clemson University (SC)",
+        "Min SAT": 1240,
+        "Max SAT": 1400,
+        "Location": "SC",
+        "Type": "Public",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "George Washington University (DC)",
+        "Min SAT": 1280,
+        "Max SAT": 1460,
+        "Location": "DC",
+        "Type": "Private",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "Texas A&M University--College Station",
+        "Min SAT": 1170,
+        "Max SAT": 1380,
+        "Location": "Texas A&M University--College Station",
+        "Type": "Public",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "University of Minnesota--Twin Cities",
+        "Min SAT": 1350,
+        "Max SAT": 1500,
+        "Location": "University of Minnesota--Twin Cities",
+        "Type": "Public",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "Fordham University (NY)",
+        "Min SAT": 1250,
+        "Max SAT": 1430,
+        "Location": "NY",
+        "Type": "Private",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "Stevens Institute of Technology (NJ)",
+        "Min SAT": 1330,
+        "Max SAT": 1480,
+        "Location": "NJ",
+        "Type": "Private",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "Virginia Tech",
+        "Min SAT": 1180,
+        "Max SAT": 1390,
+        "Location": "Virginia Tech",
+        "Type": "Public",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "American University (DC)",
+        "Min SAT": 1220,
+        "Max SAT": 1380,
+        "Location": "DC",
+        "Type": "Private",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "Brigham Young Univ.--Provo (UT)",
+        "Min SAT": 1290,
+        "Max SAT": 1440,
+        "Location": "UT",
+        "Type": "Private",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "Baylor University (TX)",
+        "Min SAT": 1180,
+        "Max SAT": 1350,
+        "Location": "TX",
+        "Type": "Private",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "Binghamton University--SUNY",
+        "Min SAT": 1310,
+        "Max SAT": 1440,
+        "Location": "Binghamton University--SUNY",
+        "Type": "Public",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "Gonzaga University (WA)",
+        "Min SAT": 1183,
+        "Max SAT": 1350,
+        "Location": "WA",
+        "Type": "Private",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "Indiana University--Bloomington",
+        "Min SAT": 1150,
+        "Max SAT": 1360,
+        "Location": "Indiana University--Bloomington",
+        "Type": "Public",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "University at Buffalo--SUNY",
+        "Min SAT": 1160,
+        "Max SAT": 1330,
+        "Location": "University at Buffalo--SUNY",
+        "Type": "Public",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "Colorado School of Mines",
+        "Min SAT": 1290,
+        "Max SAT": 1450,
+        "Location": "Colorado School of Mines",
+        "Type": "Public",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "Elon University (NC)",
+        "Min SAT": 1150,
+        "Max SAT": 1330,
+        "Location": "NC",
+        "Type": "Private",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "Marquette University (WI)",
+        "Min SAT": 1200,
+        "Max SAT": 1400,
+        "Location": "WI",
+        "Type": "Private",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "Michigan State University",
+        "Min SAT": 1110,
+        "Max SAT": 1310,
+        "Location": "Michigan State University",
+        "Type": "Public",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "North Carolina State U.--Raleigh",
+        "Min SAT": 1250,
+        "Max SAT": 1390,
+        "Location": "North Carolina State U.--Raleigh",
+        "Type": "Public",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "University of California--Santa Cruz",
+        "Min SAT": 1170,
+        "Max SAT": 1400,
+        "Location": "University of California--Santa Cruz",
+        "Type": "Public",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "University of Iowa",
+        "Min SAT": 1130,
+        "Max SAT": 1310,
+        "Location": "University of Iowa",
+        "Type": "Public",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "Clark University (MA)",
+        "Min SAT": 1200,
+        "Max SAT": 1390,
+        "Location": "MA",
+        "Type": "Private",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "Miami University--Oxford (OH)",
+        "Min SAT": 1300,
+        "Max SAT": 1600,
+        "Location": "OH",
+        "Type": "Public",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "Stony Brook--SUNY",
+        "Min SAT": 1230,
+        "Max SAT": 1420,
+        "Location": "Stony Brook--SUNY",
+        "Type": "Public",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "University of California--Riverside",
+        "Min SAT": 1110,
+        "Max SAT": 1330,
+        "Location": "University of California--Riverside",
+        "Type": "Public",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "University of Delaware",
+        "Min SAT": 1170,
+        "Max SAT": 1350,
+        "Location": "University of Delaware",
+        "Type": "Public",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "University of San Diego",
+        "Min SAT": 1190,
+        "Max SAT": 1360,
+        "Location": "University of San Diego",
+        "Type": "Private",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "Drexel University (PA)",
+        "Min SAT": 1170,
+        "Max SAT": 1380,
+        "Location": "PA",
+        "Type": "Private",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "New Jersey Inst. of Technology",
+        "Min SAT": 1190,
+        "Max SAT": 1380,
+        "Location": "New Jersey Inst. of Technology",
+        "Type": "Public",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "Saint Louis University",
+        "Min SAT": 1140,
+        "Max SAT": 1380,
+        "Location": "Saint Louis University",
+        "Type": "Private",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "Texas Christian University",
+        "Min SAT": 1350,
+        "Max SAT": 1428,
+        "Location": "Texas Christian University",
+        "Type": "Private",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "University of Denver",
+        "Min SAT": 1180,
+        "Max SAT": 1380,
+        "Location": "University of Denver",
+        "Type": "Private",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "University of San Francisco",
+        "Min SAT": 1130,
+        "Max SAT": 1330,
+        "Location": "University of San Francisco",
+        "Type": "Private",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "Yeshiva University (NY)",
+        "Min SAT": 1330,
+        "Max SAT": 1480,
+        "Location": "NY",
+        "Type": "Private",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "Auburn University (AL)",
+        "Min SAT": 1240,
+        "Max SAT": 1380,
+        "Location": "AL",
+        "Type": "Public",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "Creighton University (NE)",
+        "Min SAT": 1080,
+        "Max SAT": 1360,
+        "Location": "NE",
+        "Type": "Private",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "Howard University (DC)",
+        "Min SAT": 1140,
+        "Max SAT": 1285,
+        "Location": "DC",
+        "Type": "Private",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "Loyola University Chicago",
+        "Min SAT": 1160,
+        "Max SAT": 1340,
+        "Location": "Chicago",
+        "Type": "Private",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "Rochester Inst. of Technology (NY)",
+        "Min SAT": 1200,
+        "Max SAT": 1400,
+        "Location": "NY",
+        "Type": "Private",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "Temple University (PA)",
+        "Min SAT": 1130,
+        "Max SAT": 1320,
+        "Location": "PA",
+        "Type": "Public",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "University of California--Merced",
+        "Min SAT": 1000,
+        "Max SAT": 1190,
+        "Location": "University of California--Merced",
+        "Type": "Public",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "University of Colorado--Boulder",
+        "Min SAT": 1150,
+        "Max SAT": 1360,
+        "Location": "University of Colorado--Boulder",
+        "Type": "Public",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "University of Oregon",
+        "Min SAT": 1080,
+        "Max SAT": 1290,
+        "Location": "University of Oregon",
+        "Type": "Public",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "Univ. of South Carolina",
+        "Min SAT": 1190,
+        "Max SAT": 1360,
+        "Location": "Univ. of South Carolina",
+        "Type": "Public",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "University of South Florida",
+        "Min SAT": 1170,
+        "Max SAT": 1330,
+        "Location": "University of South Florida",
+        "Type": "Public",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "University of Tennessee",
+        "Min SAT": 25,
+        "Max SAT": 31,
+        "Location": "University of Tennessee",
+        "Type": "Public",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "University of Utah",
+        "Min SAT": 22,
+        "Max SAT": 29,
+        "Location": "University of Utah",
+        "Type": "Public",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "Arizona State University--Tempe",
+        "Min SAT": 1130,
+        "Max SAT": 1360,
+        "Location": "Arizona State University--Tempe",
+        "Type": "Public",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "Clarkson University (NY)",
+        "Min SAT": 1160,
+        "Max SAT": 1350,
+        "Location": "NY",
+        "Type": "Private",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "Illinois Institute of Technology",
+        "Min SAT": 1220,
+        "Max SAT": 1400,
+        "Location": "Illinois Institute of Technology",
+        "Type": "Private",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "University of Arizona",
+        "Min SAT": 21,
+        "Max SAT": 28,
+        "Location": "University of Arizona",
+        "Type": "Public",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "Iowa State University",
+        "Min SAT": 22,
+        "Max SAT": 28,
+        "Location": "Iowa State University",
+        "Type": "Public",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "SUNY Col. of Envir. Sci. and Forestry",
+        "Min SAT": 1120,
+        "Max SAT": 1310,
+        "Location": "SUNY Col. of Envir. Sci. and Forestry",
+        "Type": "Public",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "University of Tulsa (OK)",
+        "Min SAT": 25,
+        "Max SAT": 32,
+        "Location": "OK",
+        "Type": "Private",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "University of Vermont",
+        "Min SAT": 1180,
+        "Max SAT": 1360,
+        "Location": "University of Vermont",
+        "Type": "Public",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "Chapman University (CA)",
+        "Min SAT": 1190,
+        "Max SAT": 1370,
+        "Location": "CA",
+        "Type": "Private",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "DePaul University (IL)",
+        "Min SAT": 1080,
+        "Max SAT": 1290,
+        "Location": "Chicago",
+        "Type": "Private",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "Simmons University (MA)",
+        "Min SAT": 1130,
+        "Max SAT": 1300,
+        "Location": "MA",
+        "Type": "Private",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "University of New Hampshire",
+        "Min SAT": 1090,
+        "Max SAT": 1280,
+        "Location": "University of New Hampshire",
+        "Type": "Public",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "University of the Pacific (CA)",
+        "Min SAT": 1120,
+        "Max SAT": 1350,
+        "Location": "CA",
+        "Type": "Private",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "Drake University (IA)",
+        "Min SAT": 24,
+        "Max SAT": 30,
+        "Location": "IA",
+        "Type": "Private",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "University of Kansas",
+        "Min SAT": 23,
+        "Max SAT": 29,
+        "Location": "University of Kansas",
+        "Type": "Public",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "Duquesne University (PA)",
+        "Min SAT": 1140,
+        "Max SAT": 1280,
+        "Location": "PA",
+        "Type": "Private",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "Rutgers University--Newark (NJ)",
+        "Min SAT": 1020,
+        "Max SAT": 1190,
+        "Location": "NJ",
+        "Type": "Public",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "University of Dayton (OH)",
+        "Min SAT": 25,
+        "Max SAT": 30,
+        "Location": "OH",
+        "Type": "Private",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "University of Illinois--Chicago",
+        "Min SAT": 1020,
+        "Max SAT": 1220,
+        "Location": "University of Illinois--Chicago",
+        "Type": "Public",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "University of Kentucky",
+        "Min SAT": 23,
+        "Max SAT": 29,
+        "Location": "University of Kentucky",
+        "Type": "Public",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "University of La Verne (CA)",
+        "Min SAT": 1020,
+        "Max SAT": 1205,
+        "Location": "CA",
+        "Type": "Private",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "University of Oklahoma",
+        "Min SAT": 23,
+        "Max SAT": 29,
+        "Location": "University of Oklahoma",
+        "Type": "Public",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "The Catholic University of America (DC)",
+        "Min SAT": 1140,
+        "Max SAT": 1320,
+        "Location": "DC",
+        "Type": "Private",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "Oregon State University",
+        "Min SAT": 1080,
+        "Max SAT": 1310,
+        "Location": "Oregon State University",
+        "Type": "Public",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "Seattle University",
+        "Min SAT": 1130,
+        "Max SAT": 1320,
+        "Location": "Seattle University",
+        "Type": "Private",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "Seton Hall University (NJ)",
+        "Min SAT": 1150,
+        "Max SAT": 1310,
+        "Location": "NJ",
+        "Type": "Private",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "University of Cincinnati",
+        "Min SAT": 24,
+        "Max SAT": 29,
+        "Location": "University of Cincinnati",
+        "Type": "Public",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "Univ. of Missouri",
+        "Min SAT": 23,
+        "Max SAT": 29,
+        "Location": "Univ. of Missouri",
+        "Type": "Public",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "Univ. of Nebraska--Lincoln",
+        "Min SAT": 22,
+        "Max SAT": 29,
+        "Location": "Univ. of Nebraska--Lincoln",
+        "Type": "Public",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "University of St. Thomas (MN)",
+        "Min SAT": 24,
+        "Max SAT": 29,
+        "Location": "MN",
+        "Type": "Private",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "Michigan Technological University",
+        "Min SAT": 1170,
+        "Max SAT": 1360,
+        "Location": "Michigan Technological University",
+        "Type": "Public",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "Samford University (AL)",
+        "Min SAT": 23,
+        "Max SAT": 29,
+        "Location": "AL",
+        "Type": "Private",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "San Diego State University",
+        "Min SAT": 1110,
+        "Max SAT": 1310,
+        "Location": "San Diego State University",
+        "Type": "Public",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "University at Albany--SUNY",
+        "Min SAT": 1100,
+        "Max SAT": 1260,
+        "Location": "University at Albany--SUNY",
+        "Type": "Public",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "University of St. Joseph (CT)",
+        "Min SAT": 1030,
+        "Max SAT": 1210,
+        "Location": "CT",
+        "Type": "Private",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "University of Texas--Dallas",
+        "Min SAT": 1220,
+        "Max SAT": 1440,
+        "Location": "University of Texas--Dallas",
+        "Type": "Public",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "George Mason University (VA)",
+        "Min SAT": 1120,
+        "Max SAT": 1320,
+        "Location": "VA",
+        "Type": "Public",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "Louisiana State University--Baton Rouge",
+        "Min SAT": 23,
+        "Max SAT": 29,
+        "Location": "Louisiana State University--Baton Rouge",
+        "Type": "Public",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "Mercer University (GA)",
+        "Min SAT": 1180,
+        "Max SAT": 1340,
+        "Location": "GA",
+        "Type": "Private",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "The New School (NY)",
+        "Min SAT": 1150,
+        "Max SAT": 1360,
+        "Location": "NY",
+        "Type": "Private",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "Quinnipiac University (CT)",
+        "Min SAT": 1090,
+        "Max SAT": 1260,
+        "Location": "CT",
+        "Type": "Private",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "Thomas Jefferson University (PA)",
+        "Min SAT": 1060,
+        "Max SAT": 1240,
+        "Location": "PA",
+        "Type": "Private",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "University of Alabama",
+        "Min SAT": 23,
+        "Max SAT": 31,
+        "Location": "University of Alabama",
+        "Type": "Public",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "University of Arkansas",
+        "Min SAT": 23,
+        "Max SAT": 29,
+        "Location": "University of Arkansas",
+        "Type": "Public",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "Valparaiso University (IN)",
+        "Min SAT": 1070,
+        "Max SAT": 1270,
+        "Location": "IN",
+        "Type": "Private",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "Hofstra University (NY)",
+        "Min SAT": 1150,
+        "Max SAT": 1330,
+        "Location": "NY",
+        "Type": "Private",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "Kansas State University",
+        "Min SAT": 22,
+        "Max SAT": 28,
+        "Location": "Kansas State University",
+        "Type": "Public",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "University of Mississippi",
+        "Min SAT": 21,
+        "Max SAT": 29,
+        "Location": "University of Mississippi",
+        "Type": "Public",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "Virginia Commonwealth University",
+        "Min SAT": 1070,
+        "Max SAT": 1260,
+        "Location": "Virginia Commonwealth University",
+        "Type": "Public",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "Adelphi University (NY)",
+        "Min SAT": 1080,
+        "Max SAT": 1270,
+        "Location": "NY",
+        "Type": "Private",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "Belmont University (TN)",
+        "Min SAT": 24,
+        "Max SAT": 29,
+        "Location": "TN",
+        "Type": "Private",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "Colorado State University",
+        "Min SAT": 1070,
+        "Max SAT": 1280,
+        "Location": "Colorado State University",
+        "Type": "Public",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "Montclair State University (NJ)",
+        "Min SAT": 990,
+        "Max SAT": 1170,
+        "Location": "NJ",
+        "Type": "Public",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "Rowan University (NJ)",
+        "Min SAT": 1005,
+        "Max SAT": 1225,
+        "Location": "NJ",
+        "Type": "Public",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "Rutgers University--Camden (NJ)",
+        "Min SAT": 1000,
+        "Max SAT": 1180,
+        "Location": "NJ",
+        "Type": "Public",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "St. John Fisher College (NY)",
+        "Min SAT": 1080,
+        "Max SAT": 1250,
+        "Location": "NY",
+        "Type": "Private",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "University of Alabama--Birmingham",
+        "Min SAT": 21,
+        "Max SAT": 29,
+        "Location": "University of Alabama--Birmingham",
+        "Type": "Public",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "University of Central Florida",
+        "Min SAT": 1160,
+        "Max SAT": 1340,
+        "Location": "University of Central Florida",
+        "Type": "Public",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "University of Hawaii--Manoa",
+        "Min SAT": 1055,
+        "Max SAT": 1240,
+        "Location": "University of Hawaii--Manoa",
+        "Type": "Public",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "Univ. of Maryland--Baltimore County",
+        "Min SAT": 1190,
+        "Max SAT": 1360,
+        "Location": "Univ. of Maryland--Baltimore County",
+        "Type": "Public",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "University of Rhode Island",
+        "Min SAT": 1090,
+        "Max SAT": 1260,
+        "Location": "University of Rhode Island",
+        "Type": "Public",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "Washington State University",
+        "Min SAT": 1020,
+        "Max SAT": 1210,
+        "Location": "Washington State University",
+        "Type": "Public",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "Gallaudet University (DC)",
+        "Min SAT": 15,
+        "Max SAT": 20,
+        "Location": "DC",
+        "Type": "Private",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "Missouri Univ. of Science & Tech--Rolla.",
+        "Min SAT": 25,
+        "Max SAT": 31,
+        "Location": "Missouri Univ. of Science & Tech--Rolla.",
+        "Type": "Public",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "St. John's University (NY)",
+        "Min SAT": 1070,
+        "Max SAT": 1270,
+        "Location": "NY",
+        "Type": "Private",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "University of Detroit Mercy",
+        "Min SAT": 1050,
+        "Max SAT": 1250,
+        "Location": "University of Detroit Mercy",
+        "Type": "Private",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "University of Idaho",
+        "Min SAT": 1010,
+        "Max SAT": 1220,
+        "Location": "University of Idaho",
+        "Type": "Public",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "Univ. of Massachusetts--Lowell",
+        "Min SAT": 1150,
+        "Max SAT": 1320,
+        "Location": "Univ. of Massachusetts--Lowell",
+        "Type": "Public",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "Biola University (CA)",
+        "Min SAT": 1060,
+        "Max SAT": 1260,
+        "Location": "CA",
+        "Type": "Private",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "Chatham University (PA)",
+        "Min SAT": 1040,
+        "Max SAT": 1250,
+        "Location": "PA",
+        "Type": "Private",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "Ohio University",
+        "Min SAT": 21,
+        "Max SAT": 26,
+        "Location": "Ohio University",
+        "Type": "Public",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "Pacific University (OR)",
+        "Min SAT": 1060,
+        "Max SAT": 1250,
+        "Location": "OR",
+        "Type": "Private",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "Union University (TN)",
+        "Min SAT": 23,
+        "Max SAT": 30,
+        "Location": "TN",
+        "Type": "Private",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "University of Houston",
+        "Min SAT": 1130,
+        "Max SAT": 1310,
+        "Location": "University of Houston",
+        "Type": "Public",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "University of North Carolina--Wilmington",
+        "Min SAT": 23,
+        "Max SAT": 27,
+        "Location": "University of North Carolina--Wilmington",
+        "Type": "Public",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "Ball State University (IN)",
+        "Min SAT": 1080,
+        "Max SAT": 1240,
+        "Location": "IN",
+        "Type": "Public",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "Misericordia University (PA)",
+        "Min SAT": 1040,
+        "Max SAT": 1200,
+        "Location": "PA",
+        "Type": "Private",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "Oklahoma State University",
+        "Min SAT": 22,
+        "Max SAT": 28,
+        "Location": "Oklahoma State University",
+        "Type": "Public",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "Seattle Pacific University",
+        "Min SAT": 1030,
+        "Max SAT": 1240,
+        "Location": "Seattle Pacific University",
+        "Type": "Private",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "University of Louisville (KY)",
+        "Min SAT": 22,
+        "Max SAT": 29,
+        "Location": "KY",
+        "Type": "Public",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "Bellarmine University (KY)",
+        "Min SAT": 22,
+        "Max SAT": 28,
+        "Location": "KY",
+        "Type": "Private",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "Bethel University (MN)",
+        "Min SAT": 22,
+        "Max SAT": 28,
+        "Location": "MN",
+        "Type": "Private",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "Illinois State University",
+        "Min SAT": 20,
+        "Max SAT": 26,
+        "Location": "Illinois State University",
+        "Type": "Public",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "Loyola University New Orleans",
+        "Min SAT": 22,
+        "Max SAT": 28,
+        "Location": "Loyola University New Orleans",
+        "Type": "Private",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "Towson University (MD)",
+        "Min SAT": 1060,
+        "Max SAT": 1200,
+        "Location": "MD",
+        "Type": "Public",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "Edgewood College (WI)",
+        "Min SAT": 20,
+        "Max SAT": 25,
+        "Location": "WI",
+        "Type": "Private",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "Florida Institute of Technology",
+        "Min SAT": 1150,
+        "Max SAT": 1340,
+        "Location": "Florida Institute of Technology",
+        "Type": "Private",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "Maryville Univ. of St. Louis",
+        "Min SAT": 20,
+        "Max SAT": 26,
+        "Location": "Maryville Univ. of St. Louis",
+        "Type": "Private",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "Pace University (NY)",
+        "Min SAT": 1060,
+        "Max SAT": 1220,
+        "Location": "NY",
+        "Type": "Private",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "Regis University (CO)",
+        "Min SAT": 1050,
+        "Max SAT": 1230,
+        "Location": "CO",
+        "Type": "Private",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "Robert Morris University (PA)",
+        "Min SAT": 1030,
+        "Max SAT": 1200,
+        "Location": "PA",
+        "Type": "Private",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "University of Maine",
+        "Min SAT": 1050,
+        "Max SAT": 1250,
+        "Location": "University of Maine",
+        "Type": "Public",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "University of St. Francis (IL)",
+        "Min SAT": 1030,
+        "Max SAT": 1190,
+        "Location": "IL",
+        "Type": "Private",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "Widener University (PA)",
+        "Min SAT": 1020,
+        "Max SAT": 1200,
+        "Location": "PA",
+        "Type": "Private",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "California State University--Fresno",
+        "Min SAT": 910,
+        "Max SAT": 1110,
+        "Location": "California State University--Fresno",
+        "Type": "Public",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "Georgia State University",
+        "Min SAT": 990,
+        "Max SAT": 1190,
+        "Location": "Georgia State University",
+        "Type": "Public",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "Immaculata University (PA)",
+        "Min SAT": 1018,
+        "Max SAT": 1223,
+        "Location": "PA",
+        "Type": "Private",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "Kent State University (OH)",
+        "Min SAT": 20,
+        "Max SAT": 25,
+        "Location": "OH",
+        "Type": "Public",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "Mississippi State University",
+        "Min SAT": 22,
+        "Max SAT": 29,
+        "Location": "Mississippi State University",
+        "Type": "Public",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "University of Hartford (CT)",
+        "Min SAT": 1050,
+        "Max SAT": 1250,
+        "Location": "CT",
+        "Type": "Private",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "Wilkes University (PA)",
+        "Min SAT": 1050,
+        "Max SAT": 1240,
+        "Location": "PA",
+        "Type": "Private",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "Clarke University (IA)",
+        "Min SAT": 19,
+        "Max SAT": 23,
+        "Location": "IA",
+        "Type": "Private",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "Florida International University",
+        "Min SAT": 1090,
+        "Max SAT": 1260,
+        "Location": "Florida International University",
+        "Type": "Public",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "Gannon University (PA)",
+        "Min SAT": 1020,
+        "Max SAT": 1220,
+        "Location": "PA",
+        "Type": "Private",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "Hampton University (VA)",
+        "Min SAT": 19,
+        "Max SAT": 24,
+        "Location": "VA",
+        "Type": "Private",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "Lipscomb University (TN)",
+        "Min SAT": 22,
+        "Max SAT": 29,
+        "Location": "TN",
+        "Type": "Private",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "Sacred Heart University (CT)",
+        "Min SAT": 1100,
+        "Max SAT": 1240,
+        "Location": "CT",
+        "Type": "Private",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "Texas Tech University",
+        "Min SAT": 1070,
+        "Max SAT": 1240,
+        "Location": "Texas Tech University",
+        "Type": "Public",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "Univ. of Massachusetts--Dartmouth",
+        "Min SAT": 990,
+        "Max SAT": 1190,
+        "Location": "Univ. of Massachusetts--Dartmouth",
+        "Type": "Public",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "University of New Mexico",
+        "Min SAT": 19,
+        "Max SAT": 25,
+        "Location": "University of New Mexico",
+        "Type": "Public",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "Western New England University (MA)",
+        "Min SAT": 1060,
+        "Max SAT": 1250,
+        "Location": "MA",
+        "Type": "Private",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "Azusa Pacific University (CA)",
+        "Min SAT": 1020,
+        "Max SAT": 1240,
+        "Location": "CA",
+        "Type": "Private",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "CUNY--City College",
+        "Min SAT": 950,
+        "Max SAT": 1190,
+        "Location": "CUNY--City College",
+        "Type": "Public",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "East Carolina University (NC)",
+        "Min SAT": 1030,
+        "Max SAT": 1180,
+        "Location": "NC",
+        "Type": "Public",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "Grand Valley State University (MI)",
+        "Min SAT": 1050,
+        "Max SAT": 1240,
+        "Location": "MI",
+        "Type": "Public",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "Indiana University-Purdue University--Indianapolis",
+        "Min SAT": 1000,
+        "Max SAT": 1200,
+        "Location": "Indiana University-Purdue University--Indianapolis",
+        "Type": "Public",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "The Sage Colleges (NY)",
+        "Min SAT": 940,
+        "Max SAT": 1140,
+        "Location": "NY",
+        "Type": "Private",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "St. Catherine University (MN)",
+        "Min SAT": 20,
+        "Max SAT": 26,
+        "Location": "MN",
+        "Type": "Private",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "University of Indianapolis",
+        "Min SAT": 990,
+        "Max SAT": 1180,
+        "Location": "University of Indianapolis",
+        "Type": "Private",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "Univ. of Massachusetts--Boston",
+        "Min SAT": 1020,
+        "Max SAT": 1220,
+        "Location": "Univ. of Massachusetts--Boston",
+        "Type": "Public",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "U. of North Carolina--Charlotte",
+        "Min SAT": 21,
+        "Max SAT": 26,
+        "Location": "U. of North Carolina--Charlotte",
+        "Type": "Public",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "University of Wyoming",
+        "Min SAT": 22,
+        "Max SAT": 28,
+        "Location": "University of Wyoming",
+        "Type": "Public",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "West Virginia University",
+        "Min SAT": 21,
+        "Max SAT": 27,
+        "Location": "West Virginia University",
+        "Type": "Public",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "Central Michigan University",
+        "Min SAT": 1000,
+        "Max SAT": 1200,
+        "Location": "Central Michigan University",
+        "Type": "Public",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "Harding University (AR)",
+        "Min SAT": 22,
+        "Max SAT": 29,
+        "Location": "AR",
+        "Type": "Private",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "Long Island University (NY)",
+        "Min SAT": 1050,
+        "Max SAT": 1250,
+        "Location": "NY",
+        "Type": "Private",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "Oklahoma City University",
+        "Min SAT": 23,
+        "Max SAT": 29,
+        "Location": "Oklahoma City University",
+        "Type": "Private",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "University of Findlay (OH)",
+        "Min SAT": 21,
+        "Max SAT": 26,
+        "Location": "OH",
+        "Type": "Private",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "University of Nevada--Reno",
+        "Min SAT": 21,
+        "Max SAT": 26,
+        "Location": "University of Nevada--Reno",
+        "Type": "Public",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "Bowling Green State University (OH)",
+        "Min SAT": 20,
+        "Max SAT": 25,
+        "Location": "OH",
+        "Type": "Public",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "George Fox University (OR)",
+        "Min SAT": 1020,
+        "Max SAT": 1230,
+        "Location": "OR",
+        "Type": "Private",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "Lesley University (MA)",
+        "Min SAT": 938,
+        "Max SAT": 1293,
+        "Location": "MA",
+        "Type": "Private",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "Montana State University",
+        "Min SAT": 21,
+        "Max SAT": 28,
+        "Location": "Montana State University",
+        "Type": "Public",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "Nova Southeastern University (FL)",
+        "Min SAT": 1080,
+        "Max SAT": 1290,
+        "Location": "FL",
+        "Type": "Private",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "University of New England (ME)",
+        "Min SAT": 1050,
+        "Max SAT": 1240,
+        "Location": "ME",
+        "Type": "Private",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "Wayne State University (MI)",
+        "Min SAT": 1010,
+        "Max SAT": 1210,
+        "Location": "MI",
+        "Type": "Public",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "Western Michigan University",
+        "Min SAT": 990,
+        "Max SAT": 1190,
+        "Location": "Western Michigan University",
+        "Type": "Public",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "Baker University (KS)",
+        "Min SAT": 20,
+        "Max SAT": 25,
+        "Location": "KS",
+        "Type": "Private",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "College of St. Scholastica (MN)",
+        "Min SAT": 20,
+        "Max SAT": 26,
+        "Location": "MN",
+        "Type": "Private",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "D'Youville College (NY)",
+        "Min SAT": 1030,
+        "Max SAT": 1200,
+        "Location": "NY",
+        "Type": "Private",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "Florida A&M University",
+        "Min SAT": 1040,
+        "Max SAT": 1170,
+        "Location": "Florida A&M University",
+        "Type": "Public",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "Lincoln Memorial University (TN)",
+        "Min SAT": 19,
+        "Max SAT": 25,
+        "Location": "TN",
+        "Type": "Private",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "Southern Illinois University--Carbondale",
+        "Min SAT": 1020,
+        "Max SAT": 1300,
+        "Location": "Southern Illinois University--Carbondale",
+        "Type": "Public",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "University of Colorado--Denver",
+        "Min SAT": 1020,
+        "Max SAT": 1210,
+        "Location": "University of Colorado--Denver",
+        "Type": "Public",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "University of Montana",
+        "Min SAT": 20,
+        "Max SAT": 26,
+        "Location": "University of Montana",
+        "Type": "Public",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "Utah State University",
+        "Min SAT": 21,
+        "Max SAT": 28,
+        "Location": "Utah State University",
+        "Type": "Public",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "Daemen College (NY)",
+        "Min SAT": 1040,
+        "Max SAT": 1230,
+        "Location": "NY",
+        "Type": "Private",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "New Mexico State University",
+        "Min SAT": 17,
+        "Max SAT": 23,
+        "Location": "New Mexico State University",
+        "Type": "Public",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "Old Dominion University (VA)",
+        "Min SAT": 990,
+        "Max SAT": 1200,
+        "Location": "VA",
+        "Type": "Public",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "Shenandoah University (VA)",
+        "Min SAT": 980,
+        "Max SAT": 1190,
+        "Location": "VA",
+        "Type": "Private",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "University of Alabama--Huntsville",
+        "Min SAT": 25,
+        "Max SAT": 31,
+        "Location": "University of Alabama--Huntsville",
+        "Type": "Public",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "University of Alaska--Fairbanks",
+        "Min SAT": 17,
+        "Max SAT": 25,
+        "Location": "University of Alaska--Fairbanks",
+        "Type": "Public",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "Univ. of Missouri--Kansas City",
+        "Min SAT": 21,
+        "Max SAT": 28,
+        "Location": "Univ. of Missouri--Kansas City",
+        "Type": "Public",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "University of North Dakota",
+        "Min SAT": 21,
+        "Max SAT": 27,
+        "Location": "University of North Dakota",
+        "Type": "Public",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "University of South Dakota",
+        "Min SAT": 20,
+        "Max SAT": 25,
+        "Location": "University of South Dakota",
+        "Type": "Public",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "Campbell University (NC)",
+        "Min SAT": 19,
+        "Max SAT": 25,
+        "Location": "NC",
+        "Type": "Private",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "Louisiana Tech University",
+        "Min SAT": 22,
+        "Max SAT": 28,
+        "Location": "Louisiana Tech University",
+        "Type": "Public",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "Mary Baldwin University (VA)",
+        "Min SAT": 950,
+        "Max SAT": 1130,
+        "Location": "VA",
+        "Type": "Private",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "South Dakota State University",
+        "Min SAT": 20,
+        "Max SAT": 26,
+        "Location": "South Dakota State University",
+        "Type": "Public",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "Tennessee Technological Univ.",
+        "Min SAT": 21,
+        "Max SAT": 27,
+        "Location": "Tennessee Technological Univ.",
+        "Type": "Public",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "University of Memphis",
+        "Min SAT": 19,
+        "Max SAT": 26,
+        "Location": "University of Memphis",
+        "Type": "Public",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "U. of North Carolina--Greensboro",
+        "Min SAT": 990,
+        "Max SAT": 1160,
+        "Location": "U. of North Carolina--Greensboro",
+        "Type": "Public",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "University of the Incarnate Word (TX)",
+        "Min SAT": 950,
+        "Max SAT": 1140,
+        "Location": "TX",
+        "Type": "Private",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "Concordia University Wisconsin",
+        "Min SAT": 20,
+        "Max SAT": 26,
+        "Location": "Concordia University Wisconsin",
+        "Type": "Private",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "Dallas Baptist University",
+        "Min SAT": 20,
+        "Max SAT": 24,
+        "Location": "Dallas Baptist University",
+        "Type": "Private",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "Florida Atlantic University",
+        "Min SAT": 1080,
+        "Max SAT": 1240,
+        "Location": "Florida Atlantic University",
+        "Type": "Public",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "Gardner-Webb University (NC)",
+        "Min SAT": 970,
+        "Max SAT": 1180,
+        "Location": "NC",
+        "Type": "Private",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "North Carolina A&T State Univ.",
+        "Min SAT": 950,
+        "Max SAT": 1110,
+        "Location": "North Carolina A&T State Univ.",
+        "Type": "Public",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "North Dakota State University",
+        "Min SAT": 21,
+        "Max SAT": 26,
+        "Location": "North Dakota State University",
+        "Type": "Public",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "Regent University (VA)",
+        "Min SAT": 950,
+        "Max SAT": 1170,
+        "Location": "VA",
+        "Type": "Private",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "Sam Houston State University (TX)",
+        "Min SAT": 1000,
+        "Max SAT": 1140,
+        "Location": "TX",
+        "Type": "Public",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "Univ. of Missouri--St. Louis",
+        "Min SAT": 21,
+        "Max SAT": 27,
+        "Location": "Univ. of Missouri--St. Louis",
+        "Type": "Public",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "University of North Florida",
+        "Min SAT": 1120,
+        "Max SAT": 1280,
+        "Location": "Florida",
+        "Type": "Public",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "University of North Texas",
+        "Min SAT": 1060,
+        "Max SAT": 1260,
+        "Location": "Texas",
+        "Type": "Public",
+        "Category": "Easy"
+    },
+    {
+        "University Name": "William Carey University (MS)",
+        "Min SAT": 21,
+        "Max SAT": 29,
+        "Location": "MS",
+        "Type": "Private",
+        "Category": "Easy"
+    }
+]
